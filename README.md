@@ -1,5 +1,7 @@
-# Not So Fast: Protect loved ones from suspicious sites
+# Not So Fast
 Telling scammers to take a hike!
+
+Not So Fast: Protect loved ones from suspicious sites
 
 Sign-up on www.notsofast.co to access the dashboard and install the below chrome extension on a loved one's browser to prevent them from accessing suspicious sites.
 
